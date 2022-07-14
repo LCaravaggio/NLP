@@ -9,3 +9,6 @@
 * [Reducción de la dimensionalidad](https://docs.google.com/presentation/d/1eVFZjCClltOt26LC7rzzrX3N3anCi4wHzvZu-Ei62HA/edit?usp=sharing)
 * [Embeddings](https://docs.google.com/presentation/d/1tqJ_LqQLmSWZFG1XCoSaZCCqHRNc4tfYvqRNvqPrsNY/edit?usp=sharing)
 * [Clasificación](https://docs.google.com/presentation/d/1TLcYrNSr_ZMFoIna_ZydX3l1-Qibd-FSxKyOi3hcMaY/edit?usp=sharing)
+
+### TPs
+* [Consignas de los Trabajos](https://docs.google.com/document/d/1RRTyaD52oTz0GVo9SycxHaN3HTMUpBDER5I8ZHkdGm8/edit?usp=sharing)
