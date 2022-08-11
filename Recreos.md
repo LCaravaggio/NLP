@@ -2,3 +2,4 @@
 [Chat Bot](https://chai.ml/) </br>
 [Proyector de Embeddings](https://projector.tensorflow.org/) </br>
 [Odiómetro](https://odiometro.es/) </br>
+[Alpa - OPT-175B](https://opt.alpa.ai/?s=08)</br>
