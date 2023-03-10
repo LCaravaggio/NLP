@@ -3,7 +3,7 @@
 ## NLP
 Material de apoyo para algunos temas presentados en la materia Procesamiento del Lenguaje Natural, electiva de [Ingeniería Informática](https://www.itba.edu.ar/grado/ingenieria-informatica/) y la [Licenciatura en Analítica (Data Science)](https://www.itba.edu.ar/grado/analitica-empresarial-y-social) del ITBA.
 
-### Slides
+### Slides (primera parte)
 * [Usos y obtención de datos](https://docs.google.com/presentation/d/1mTKNuLn3Yf15bXLGRJUcFliFTaAegrhQ1iRRQnnuhBc/edit?usp=sharing)
 * [Técnicas básicas](https://docs.google.com/presentation/d/1f2vDZJesUHqn4V8w_C9sRa_pqlFZgayDaJiStkc9zWA/edit?usp=sharing)
 * [Embeddings y Clasificación](https://docs.google.com/presentation/d/1tqJ_LqQLmSWZFG1XCoSaZCCqHRNc4tfYvqRNvqPrsNY/edit?usp=sharing)
