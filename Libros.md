@@ -1,5 +1,5 @@
 ## Principal
-<a href="https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing">
+<a href="https://web.stanford.edu/~jurafsky/slp3/">
 <img border="0" title="Speech and Language Processing" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391032539l/908047.jpg" width="86" height="133.3">
 </a>
