@@ -1,7 +1,7 @@
 <a href="url"><img src="https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png" height="115" width="234" ></a>
 
 ## NLP
-Material de apoyo para algunos temas presentados en la materia Procesamiento del Lenguaje Natural, electiva de [Ingeniería Informática](https://www.itba.edu.ar/grado/ingenieria-informatica/) y la [Licenciatura en Analítica (Data Science)](https://www.itba.edu.ar/grado/analitica-empresarial-y-social) del ITBA.
+Material de apoyo para los temas presentados en la primera parte de la materia Procesamiento del Lenguaje Natural, electiva de [Ingeniería Informática](https://www.itba.edu.ar/grado/ingenieria-informatica/) y la [Licenciatura en Analítica (Data Science)](https://www.itba.edu.ar/grado/analitica-empresarial-y-social) del ITBA.
 
 ### Slides (primera parte)
 * [Usos y obtención de datos](https://docs.google.com/presentation/d/1mTKNuLn3Yf15bXLGRJUcFliFTaAegrhQ1iRRQnnuhBc/edit?usp=sharing)
