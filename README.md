@@ -10,5 +10,8 @@ Material de apoyo para los temas presentados en la primera parte de la materia P
 * [Introducción a Redes](https://docs.google.com/presentation/d/1mlLOuUmNuMGRDf2r8QDFLxyAadfsfPdpFaA9lEcRCJ8/edit?usp=sharing)
 * [Topic Modelling](https://docs.google.com/presentation/d/1r4fkHTYQouJbKXlfN43hoF3KLDRZymwu4lKn9Pi7-64/edit?usp=sharing)
 
+### Slides (segunda parte)
+* [Language models](https://drive.google.com/file/d/1fxaBttbVWgnkq5jdk0pFfETdm34m3FJw/view?usp=share_link)
+
 ### TPs
 * [Consignas de los Trabajos](https://docs.google.com/document/d/1RRTyaD52oTz0GVo9SycxHaN3HTMUpBDER5I8ZHkdGm8/edit?usp=sharing)
