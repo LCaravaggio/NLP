@@ -12,6 +12,7 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 
 ### Slides (segunda parte)
 * [Language models](https://drive.google.com/file/d/1fxaBttbVWgnkq5jdk0pFfETdm34m3FJw/view?usp=share_link)
+* [Redes recurrentes](https://drive.google.com/file/d/1S_rKUV8ZZl6M-El0GRs8INACvnT3G0QU/view?usp=share_link)
 
 ### TPs
 * [Consignas de los Trabajos](https://docs.google.com/document/d/1RRTyaD52oTz0GVo9SycxHaN3HTMUpBDER5I8ZHkdGm8/edit?usp=sharing)
