@@ -5,7 +5,8 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 
 ### Slides
 * [Obtención y normalización](https://docs.google.com/presentation/d/1mTKNuLn3Yf15bXLGRJUcFliFTaAegrhQ1iRRQnnuhBc/edit?usp=sharing)
-* [Clasificación y Embeddings](https://docs.google.com/presentation/d/1tqJ_LqQLmSWZFG1XCoSaZCCqHRNc4tfYvqRNvqPrsNY/edit?usp=sharing)
+* [Clasificación](https://docs.google.com/presentation/d/1tqJ_LqQLmSWZFG1XCoSaZCCqHRNc4tfYvqRNvqPrsNY/edit?usp=sharing)
+* [Embeddings](https://docs.google.com/presentation/d/1D3a6ElJh7dAM8yof6TBR0ydqpI7eQYKaf791aHolBRs/edit?usp=sharing)
 * [Introducción a Redes](https://docs.google.com/presentation/d/1mlLOuUmNuMGRDf2r8QDFLxyAadfsfPdpFaA9lEcRCJ8/edit?usp=sharing)
 * [Topic Modelling](https://docs.google.com/presentation/d/1r4fkHTYQouJbKXlfN43hoF3KLDRZymwu4lKn9Pi7-64/edit?usp=sharing)
 * [Language models](https://drive.google.com/file/d/1fxaBttbVWgnkq5jdk0pFfETdm34m3FJw/view?usp=share_link)
