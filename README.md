@@ -4,6 +4,7 @@
 Material de apoyo para algunos de los temas presentados en la materia Procesamiento del Lenguaje Natural, electiva de [Ingeniería Informática](https://www.itba.edu.ar/grado/ingenieria-informatica/) y la [Licenciatura en Analítica (Data Science)](https://www.itba.edu.ar/grado/analitica-empresarial-y-social) del ITBA.
 
 ### Slides
+* [Introducción](https://drive.google.com/file/d/1uEXeTQf2-EJfsoZFMlckp1rwWoPX_Tot/view?usp=sharing)
 * [Obtención y normalización](https://docs.google.com/presentation/d/1mTKNuLn3Yf15bXLGRJUcFliFTaAegrhQ1iRRQnnuhBc/edit?usp=sharing)
 * [Clasificación](https://docs.google.com/presentation/d/1tqJ_LqQLmSWZFG1XCoSaZCCqHRNc4tfYvqRNvqPrsNY/edit?usp=sharing)
 * [Embeddings](https://docs.google.com/presentation/d/1D3a6ElJh7dAM8yof6TBR0ydqpI7eQYKaf791aHolBRs/edit?usp=sharing)
