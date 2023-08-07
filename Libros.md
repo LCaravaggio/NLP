@@ -10,6 +10,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13910
 <img border="0" title="Natural Language Processing with Python" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
 </a>
+<a href="https://www.goodreads.com/book/show/57866242-text-as-data?ac=1&from_search=true&qid=RXzoBes8lN&rank=1">
+<img border="0" title="Text as Data: A New Framework for Machine Learning and the Social Sciences" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623113297i/57866242.jpg" width="86" height="133.3">
+</a>
 <a href="https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data">
 <img border="0" title="Analyzing Linguistic Data" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392023932l/6179005.jpg" width="86" height="133.3">
