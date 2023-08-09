@@ -19,3 +19,6 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 
 ### TPs
 * [Consignas de los Trabajos](https://docs.google.com/document/d/1RRTyaD52oTz0GVo9SycxHaN3HTMUpBDER5I8ZHkdGm8/edit?usp=sharing)
+
+### Cronograma
+* [2023Q2](https://docs.google.com/spreadsheets/d/1tfQ6xlSOvFHE33-eIPzUcEGNGSjrExfofN_nyReihcg/edit#gid=0)
