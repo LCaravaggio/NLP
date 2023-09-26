@@ -14,6 +14,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13288
 <img border="0" title="Text as Data: A New Framework for Machine Learning and the Social Sciences" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623113297i/57866242.jpg" width="86" height="133.3">
 </a>
+<a href="https://www.goodreads.com/book/show/57400114-text-analysis-in-python-for-social-scientists">
+<img border="0" title="Text Analysis in Python for Social Scientists: Discovery and Exploration" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615672394i/57400114.jpg" width="86" height="133.3">
+</a>
 <a href="https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data">
 <img border="0" title="Analyzing Linguistic Data" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392023932l/6179005.jpg" width="86" height="133.3">
