@@ -4,16 +4,18 @@
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391032539l/908047.jpg" width="86" height="133.3">
 </a>
 
-## Otros
-</p>  
-<a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
-<img border="0" title="Natural Language Processing with Python" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
+## Topic Modelling y Aplicación a Social Sciences
 </a>
 <a href="https://www.goodreads.com/book/show/57866242-text-as-data?ac=1&from_search=true&qid=RXzoBes8lN&rank=1">
 <img border="0" title="Text as Data: A New Framework for Machine Learning and the Social Sciences" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623113297i/57866242.jpg" width="86" height="133.3">
 </a>
+
+## Otros
+</p>  
+<a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
+<img border="0" title="Natural Language Processing with Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
 <a href="https://www.goodreads.com/book/show/57400114-text-analysis-in-python-for-social-scientists">
 <img border="0" title="Text Analysis in Python for Social Scientists: Discovery and Exploration" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615672394i/57400114.jpg" width="86" height="133.3">
