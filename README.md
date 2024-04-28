@@ -12,11 +12,11 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 * [Topic Modelling](https://docs.google.com/presentation/d/1r4fkHTYQouJbKXlfN43hoF3KLDRZymwu4lKn9Pi7-64/edit?usp=sharing)
 * [Sobre el TP](https://drive.google.com/file/d/1bFH0hRDFckZl3nbGAkep1zVIi4ZtdIG-/view?usp=sharing)
 * [Introducción a language models](https://drive.google.com/file/d/1fxaBttbVWgnkq5jdk0pFfETdm34m3FJw/view?usp=share_link)
-* [Redes recurrentes](https://drive.google.com/file/d/1S_rKUV8ZZl6M-El0GRs8INACvnT3G0QU/view?usp=share_link)
 * [Transformers](https://drive.google.com/file/d/1Rsm274uXXPksACOcHpMshiWM01guU44o/view?usp=sharing)
 * [Transfer learning](https://drive.google.com/file/d/1BR1_0sVj1TEpgJ_RRq8_Ame0PE-lMlZ8/view?usp=sharing)
 * [Encoder-decoder / MT](https://drive.google.com/file/d/1JwQQ0QHVhcT2rkysmNM4tj02VTyeWI22/view?usp=sharing)
 * [Sesgos en NLP](https://drive.google.com/file/d/1CXiowF5pspKQXlP8DAHv0n52IbAovaKo/view?usp=sharing)
+* [Redes recurrentes](https://drive.google.com/file/d/1S_rKUV8ZZl6M-El0GRs8INACvnT3G0QU/view?usp=share_link)
 
 ### TPs
 * [Consignas de los Trabajos](https://docs.google.com/document/d/1RRTyaD52oTz0GVo9SycxHaN3HTMUpBDER5I8ZHkdGm8/edit?usp=sharing)
