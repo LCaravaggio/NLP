@@ -15,6 +15,7 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 * [Transformers](https://drive.google.com/file/d/1Rsm274uXXPksACOcHpMshiWM01guU44o/view?usp=sharing)
 * [Transfer learning](https://drive.google.com/file/d/1BR1_0sVj1TEpgJ_RRq8_Ame0PE-lMlZ8/view?usp=sharing)
 * [Encoder-decoder / MT](https://drive.google.com/file/d/1JwQQ0QHVhcT2rkysmNM4tj02VTyeWI22/view?usp=sharing)
+* [Information retrieval](https://drive.google.com/file/d/17DXi_FAAzzsNkfP6CisOds9E3uLTFiNP/view?usp=sharing)
 * [Sesgos en NLP](https://drive.google.com/file/d/1CXiowF5pspKQXlP8DAHv0n52IbAovaKo/view?usp=sharing)
 * [Redes recurrentes](https://drive.google.com/file/d/1S_rKUV8ZZl6M-El0GRs8INACvnT3G0QU/view?usp=share_link)
 
