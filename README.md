@@ -23,4 +23,4 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 * [Consignas de los Trabajos](https://docs.google.com/document/d/1RRTyaD52oTz0GVo9SycxHaN3HTMUpBDER5I8ZHkdGm8/edit?usp=sharing)
 
 ### Cronograma
-* [2024Q2](https://docs.google.com/spreadsheets/d/1dRlgQVkA7ft0wbawab6k5XTLa3K1voJE/edit?gid=1852164345#gid=1852164345)
+* [Cronograma compartido](https://docs.google.com/spreadsheets/d/1dRlgQVkA7ft0wbawab6k5XTLa3K1voJE/edit?gid=1852164345#gid=1852164345)
