@@ -19,9 +19,9 @@ Material de apoyo para algunos de los temas presentados en la materia Procesamie
 * [Transfer learning](https://drive.google.com/file/d/19e4IbM5-pA_RZ8EZaPJs6JAcT7gSeUVV/view?usp=sharing)
 * [Alignment](https://drive.google.com/file/d/1xbUL3liUzz92MZxucQtVVscnWmgY59a-/view?usp=sharing)
 * [Encoder-decoder / MT](https://drive.google.com/file/d/1JwQQ0QHVhcT2rkysmNM4tj02VTyeWI22/view?usp=sharing)
+* [Information retrieval](https://drive.google.com/file/d/17DXi_FAAzzsNkfP6CisOds9E3uLTFiNP/view?usp=sharing)
 
 * [Sesgos en NLP](https://drive.google.com/file/d/1CXiowF5pspKQXlP8DAHv0n52IbAovaKo/view?usp=sharing)
-* [Information retrieval](https://drive.google.com/file/d/17DXi_FAAzzsNkfP6CisOds9E3uLTFiNP/view?usp=sharing)
 * [Redes recurrentes](https://drive.google.com/file/d/1S_rKUV8ZZl6M-El0GRs8INACvnT3G0QU/view?usp=share_link)
 
 ### TPs
