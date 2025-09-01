@@ -6,7 +6,7 @@ Material de apoyo para la materia Procesamiento del Lenguaje Natural, electiva d
 ### [Notebooks](notebooks)
 
 ### Slides
-* [Introducción](https://drive.google.com/file/d/1uEXeTQf2-EJfsoZFMlckp1rwWoPX_Tot/view?usp=sharing)
+* [Presentación de la materia](https://drive.google.com/file/d/1uEXeTQf2-EJfsoZFMlckp1rwWoPX_Tot/view?usp=sharing)
 * [Clasificación: Elementos previos](https://docs.google.com/presentation/d/1mTKNuLn3Yf15bXLGRJUcFliFTaAegrhQ1iRRQnnuhBc/edit?usp=sharing)
 * [Clasificación y Evaluación](https://docs.google.com/presentation/d/1tqJ_LqQLmSWZFG1XCoSaZCCqHRNc4tfYvqRNvqPrsNY/edit?usp=sharing)
 * [Clasificación con NN](https://docs.google.com/presentation/d/1D3a6ElJh7dAM8yof6TBR0ydqpI7eQYKaf791aHolBRs/edit?usp=sharing)
